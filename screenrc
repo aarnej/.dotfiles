@@ -1,0 +1,7 @@
+hardstatus lastline "VM: window %n [%t] "
+defscrollback 200000
+vbell off
+msgminwait 0
+msgwait 0
+compacthist on
+term "screen-256color"
